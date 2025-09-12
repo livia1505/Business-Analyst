@@ -59,4 +59,3 @@ Balances multiple stakeholder expectations effectively.
 
 DOCUMENTATION : FOR DETAILED Information VISIT https://github.com/livia1505/Interaction.md/tree/main 
 
-DOCUMENTATION : FOR DETAILED Information VISIT - Interaction.md
