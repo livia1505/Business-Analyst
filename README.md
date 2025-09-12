@@ -56,5 +56,6 @@ Quickly adjusts to changes in business environments or project scope.
 
 Balances multiple stakeholder expectations effectively.
 
-# DOCUMENTATION : FOR DETAILED Information VISIT https://github.com/livia1505/Interaction.md/tree/main
+
+DOCUMENTATION : FOR DETAILED Information VISIT https://github.com/livia1505/Interaction.md/tree/main 
 
