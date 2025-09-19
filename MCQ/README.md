@@ -19,4 +19,22 @@ The solution uses **DataStax Astra DB** for vector storage and retrieval, combin
 1. Import `mcq_generator_workflow.json` into your Langflow instance.  
 2. Configure the Astra DB connection and ensure your transcript embeddings are loaded into the vector collection.  
 3. Add your Groq API key to enable LLM calls.  
-4. Run the flow and enter a topic to generate MCQs.  
+
+4. Run the flow and enter a topic to generate MCQs.
+
+5. **SAMPLE**
+Question 9
+What is the benefit of using Python code to extract parameters?
+A) It creates a large amount of data 
+B) It simplifies the data and makes it easier to work with 
+C) It designs a complex workflow 
+D) It ignores the data
+Correct answer: B) It simplifies the data and makes it easier to work with
+
+Question 10
+What is the preferred approach to handling data for the user?
+A) Providing a large amount of data and asking for explanation 
+B) Writing Python code to extract specific parameters 
+C) Creating a complex workflow 
+D) Ignoring the data
+Correct answer: B) Writing Python code to extract specific parameters
